@@ -12,8 +12,8 @@ I'm passionate about using technology to drive positive change, and I'm always e
 
 
 📫 How to reach me:
-- [Email Address](ponihenry88@gmail.com)
-- [LinkedIn Profile](linkedin.com/in/ponihenry)
+- Email Address - ponihenry88@gmail.com
+- LinkedIn Profile - linkedin.com/in/ponihenry 
 
 
 <!--
