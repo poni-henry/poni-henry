@@ -7,8 +7,9 @@ I'm passionate about using technology to drive positive change, and I'm always e
 - Currently a Research Assistant at Integrated Smart Systems Group, focusing on Internet of Things (IoT) and climate change.
 - Junior Mentor and Researcher at Makerere Innovation Society, involved in data collection, analysis, and mentoring.
 #### Passion and Growth
-🔭 I’m currently working on 
-🌱 I’m currently learning python 
+🔭 I’m currently working on writeups for picoCTF 2023 challenge.
+
+🌱 I’m currently learning python and how to use in projects of machine learning, data science and cybersecurity.
 
 
 📫 How to reach me:
