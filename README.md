@@ -11,7 +11,6 @@ I'm passionate about using technology to drive positive change, and I'm always e
 
 🌱 I’m currently learning python and how to use in projects of machine learning, data science and cybersecurity.
 
-
 📫 How to reach me:
 - Email Address - ponihenry88@gmail.com
 - LinkedIn Profile - linkedin.com/in/ponihenry  
