@@ -3,7 +3,7 @@
 I'm a final year Makerere University Kampala student pursuing a Bachelor of Science in Computer Engineering.
 I'm passionate about using technology to drive positive change, and I'm always eager to work on projects that make a lasting impact in the community.
 
-####Experiences 👯
+#### Experiences 👯
 - Currently a Research Assistant at Integrated Smart Systems Group, focusing on Internet of Things (IoT) and climate change.
 - Junior Mentor and Researcher at Makerere Innovation Society, involved in data collection, analysis, and mentoring.
 #### Passion and Growth
