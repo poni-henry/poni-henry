@@ -9,7 +9,7 @@ I'm passionate about using technology to drive positive change, and I'm always e
 #### Passion and Growth
 🔭 I’m currently working on writeups for picoCTF 2023 challenge.
 
-🌱 I’m currently learning python and how to use in projects of machine learning, data science and cybersecurity.
+🌱 I’m currently learning Python and how to use it in projects of machine learning, data science and cybersecurity.
 
 📫 How to reach me:
 - Email Address - ponihenry88@gmail.com
